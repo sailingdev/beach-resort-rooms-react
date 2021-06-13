@@ -1,0 +1,5 @@
+create-react-app resort
+npm install react-icons
+npm i react-router-dom --save
+npm i --save styled-components
+npm install contentful
