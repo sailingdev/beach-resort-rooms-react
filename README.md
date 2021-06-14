@@ -20,3 +20,4 @@ You will also be able to see any lint errors in the console.
 ## AVAILABLE IN
 
 Navigate to [https://beach-resort-rooms-site-react.netlify.app/](https://beach-resort-rooms-site-react.netlify.app/)
+Available also in [https://beach-resort-rooms-react.vercel.app/](https://beach-resort-rooms-react.vercel.app/)
